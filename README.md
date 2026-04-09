@@ -23,7 +23,9 @@ Predict which customers are likely to churn based on telecom data.
 This model helps companies reduce customer churn and improve retention strategies.
 
 ## 📷 Sample Visualizations
-(حطي هنا الصور)
+<img width="970" height="603" alt="image" src="https://github.com/user-attachments/assets/4f4b93a2-6e4f-44c4-aed3-f26bb35d60b3" />
+<img width="1415" height="803" alt="image" src="https://github.com/user-attachments/assets/295e5109-b33f-403f-accc-e50e74ce04ad" />
+<img width="998" height="601" alt="image" src="https://github.com/user-attachments/assets/b789d133-1178-4c82-af71-2f14217c8a3d" />
+
 
 ## ⚙️ Deployment
-(لو عندك deployment حطي اللينك هنا)
